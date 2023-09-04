@@ -1,0 +1,51 @@
+.bg-img-1{
+    background-image: url('https://shorturl.at/tvBK6');
+}
+.bg-img-2{
+    background-image: url("https://shorturl.at/ahjuS");
+}
+.bg-img-3{
+    background-image: url("https://shorturl.at/orEV4");
+
+}
+.carousel-image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    width: 18rem;
+    
+}
+.carousel-item{
+    height: 480px;
+}
+.maind{
+    height: auto;
+}
+.cards{
+    margin-top: 20px;
+    margin-left: 50px; 
+    margin-bottom: 30px; 
+}
+.card-img-top{
+    height: 220px;
+    width: auto;
+}
+#bgtext{
+    font-family: sans-serif;
+    color: gold;    
+}
+#ptext{
+    color: rgb(197, 255, 8);
+    font-size: larger;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+.card-title{
+    text-align: center;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
+}
